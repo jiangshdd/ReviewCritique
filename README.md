@@ -38,7 +38,7 @@ Please consider using the follow citation when using our dataset:
 @inproceedings{du2024llms,
   title={Llms assist nlp researchers: Critique paper (meta-) reviewing},
   author={Du, Jiangshu and Wang, Yibo and Zhao, Wenting and Deng, Zhongfen and Liu, Shuaiqi and Lou, Renze and Zou, Henry Peng and Venkit, Pranav Narayanan and Zhang, Nan and Srinath, Mukund and others},
-  journal={Proceedings of  {EMNLP} },
+  journal={Proceedings of {EMNLP} },
   year={2024}
 }
 ```
