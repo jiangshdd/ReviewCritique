@@ -35,10 +35,10 @@ For more information, please refer to the detailed [LICENSE](./LICENSE).
 ## Citation
 Please consider using the follow citation when using our dataset:
 ```
-@article{du2024llms,
+@inproceedings{du2024llms,
   title={Llms assist nlp researchers: Critique paper (meta-) reviewing},
   author={Du, Jiangshu and Wang, Yibo and Zhao, Wenting and Deng, Zhongfen and Liu, Shuaiqi and Lou, Renze and Zou, Henry Peng and Venkit, Pranav Narayanan and Zhang, Nan and Srinath, Mukund and others},
-  journal={arXiv preprint arXiv:2406.16253},
+  journal={Proceedings of  {EMNLP} },
   year={2024}
 }
 ```
